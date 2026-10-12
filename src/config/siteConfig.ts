@@ -28,9 +28,9 @@ export const siteConfig: SiteConfig = {
   country: 'India',
 
   // Delivery settings
-  deliveryCharge: 70, // Standard pan-India shipping in INR (₹)
-  freeDeliveryThreshold: 999, // Orders at or above ₹999 get free shipping!
+  deliveryCharge: 80, // Standard pan-India shipping in INR (₹)
+  freeDeliveryThreshold: 1499, // Orders at or above ₹1499 get free shipping!
 
   // Top bar announcement
-  announcementText: '✨ Festive Gifting Season: Free Pan-India Delivery on orders above ₹999! ✨',
+  announcementText: '✨ Festive Gifting Season: Free Pan-India Delivery on orders above ₹1499! ✨',
 };
